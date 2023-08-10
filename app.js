@@ -3,6 +3,7 @@
 let express = require('express');
 let app = express();
 let ejs = require('ejs');
+let fetch = require("node-fetch");
 require('dotenv').config();
 let helmet = require("helmet")
 
