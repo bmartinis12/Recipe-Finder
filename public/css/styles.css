@@ -441,7 +441,7 @@ footer a:hover {
     .dropbtn {
         width: 120px;
 	height: 48px;
-        padding: 3px;
+        padding: 10px;
         font-size: 13px;
 	font-weight: bold;
     }
