@@ -439,7 +439,7 @@ footer a:hover {
 
     .dropbtn {
         width: 120px;
-        padding: 20px;
+        padding: 18px;
         font-size: 13px;
     }
 
@@ -450,6 +450,10 @@ footer a:hover {
     .dropdown-content a {
         font-size: 13px;
         line-height: 15px;
+    }
+
+    .searchButton {
+    text-align: left;
     }
 
     .bar {
