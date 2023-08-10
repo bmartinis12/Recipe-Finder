@@ -179,15 +179,16 @@ form {
 }
   
 .searchButton {
-    width: 40px;
+    width: 32px;
     height: 56px;
+    padding: 2px;
     border: 1px solid #E27D60;
     background: #E27D60;
     text-align: center;
     color: black;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     z-index: 2;
 }
 
