@@ -115,6 +115,7 @@ main {
     padding: 18px;
     font-size: 16px;
     border: none;
+    color: black;
 }
 
 .dropdown {
