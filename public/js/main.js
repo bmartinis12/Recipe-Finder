@@ -200,7 +200,6 @@ $( function(){
     // Click on random button 
     randomBtn.on('click', async function(){
        let id =  await getData(`/random`);
-       console.log(id);
        window.location.replace(`/recipe?id=${id}`);
     })
 });
